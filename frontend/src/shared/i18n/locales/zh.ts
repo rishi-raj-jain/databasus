@@ -1709,6 +1709,7 @@ export const zh: typeof en = {
       },
       s3: {
         cloudflareR2Guide: '如何配合 Cloudflare R2 使用？',
+        neonGuide: '如何配合 Neon Object Storage 使用？',
         endpointTooltip: '自定义 S3 兼容端点的 URL（可选，使用 AWS S3 时留空）',
         prefixTooltip:
           "所有对象键的可选前缀（例如 'backups/' 或 'my_team/'）。部分 S3 兼容存储可能不支持。创建后无法修改（否则会丢失备份）。",

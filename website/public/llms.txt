@@ -76,6 +76,7 @@ Physical, full, incremental and WAL backups are built on PostgreSQL 17's native 
 - [Storages](https://databasus.com/storages): Overview of supported storage destinations. Here you can see which storages are supported and how to configure them.
 - [Google Drive Storage](https://databasus.com/storages/google-drive): Step-by-step guide to configure Google Drive storage with OAuth setup
 - [Cloudflare R2 Storage](https://databasus.com/storages/cloudflare-r2): Guide to configure Cloudflare R2 S3-compatible storage
+- [Neon Object Storage](https://databasus.com/storages/neon): Guide to configure Neon Object Storage as S3-compatible storage
 
 ### Notification Configuration
 

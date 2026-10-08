@@ -110,6 +110,15 @@ export default function StoragesPage() {
                 </li>
                 <li>
                   <a
+                    href="/zh/storages/neon"
+                    className="font-semibold! text-blue-600 hover:text-blue-800"
+                  >
+                    Neon Object Storage
+                  </a>{" "}
+                  - 随 Neon 数据库分支一起分支的 S3 兼容对象存储
+                </li>
+                <li>
+                  <a
                     href="/zh/storages/google-drive"
                     className="font-semibold! text-blue-600 hover:text-blue-800"
                   >

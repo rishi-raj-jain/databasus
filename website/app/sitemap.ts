@@ -27,6 +27,7 @@ const CORE_PAGE_SETTINGS: Record<
   storages: { priority: 0.8, changeFrequency: "monthly" },
   "storages/google-drive": { priority: 0.7, changeFrequency: "monthly" },
   "storages/cloudflare-r2": { priority: 0.7, changeFrequency: "monthly" },
+  "storages/neon": { priority: 0.7, changeFrequency: "monthly" },
   notifiers: { priority: 0.8, changeFrequency: "monthly" },
   "notifiers/slack": { priority: 0.7, changeFrequency: "monthly" },
   "notifiers/teams": { priority: 0.7, changeFrequency: "monthly" },

@@ -1783,6 +1783,7 @@ export const ru: typeof en = {
       },
       s3: {
         cloudflareR2Guide: 'Как подключить Cloudflare R2?',
+        neonGuide: 'Как подключить Neon Object Storage?',
         endpointTooltip:
           'URL своего S3-совместимого эндпоинта (необязательно, для AWS S3 оставьте пустым)',
         prefixTooltip:

@@ -52,6 +52,7 @@ export const TRANSLATED_PATHS = [
   "storages",
   "storages/google-drive",
   "storages/cloudflare-r2",
+  "storages/neon",
   "notifiers",
   "notifiers/slack",
   "notifiers/teams",

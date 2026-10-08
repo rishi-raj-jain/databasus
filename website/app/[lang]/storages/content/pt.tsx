@@ -112,6 +112,16 @@ export default function StoragesPage() {
                 </li>
                 <li>
                   <a
+                    href="/pt/storages/neon"
+                    className="font-semibold! text-blue-600 hover:text-blue-800"
+                  >
+                    Neon Object Storage
+                  </a>{" "}
+                  - Armazenamento de objetos compatível com S3 que acompanha os
+                  branches do seu banco de dados Neon
+                </li>
+                <li>
+                  <a
                     href="/pt/storages/google-drive"
                     className="font-semibold! text-blue-600 hover:text-blue-800"
                   >

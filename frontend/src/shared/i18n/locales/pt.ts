@@ -1803,6 +1803,7 @@ export const pt: typeof en = {
       },
       s3: {
         cloudflareR2Guide: 'Como usar com o Cloudflare R2?',
+        neonGuide: 'Como usar com o Neon Object Storage?',
         endpointTooltip:
           'URL de um endpoint compatível com S3 (opcional; deixe em branco para o AWS S3)',
         prefixTooltip:

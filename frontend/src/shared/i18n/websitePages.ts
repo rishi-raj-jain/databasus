@@ -32,6 +32,7 @@ export const WEBSITE_PAGES = {
   faqSupabase: { path: 'faq/supabase', isTranslated: true },
   storagesGoogleDrive: { path: 'storages/google-drive', isTranslated: true },
   storagesCloudflareR2: { path: 'storages/cloudflare-r2', isTranslated: true },
+  storagesNeon: { path: 'storages/neon', isTranslated: true },
   notifiersSlack: { path: 'notifiers/slack', isTranslated: true },
   notifiersTeams: { path: 'notifiers/teams', isTranslated: true },
   notifiersMattermost: { path: 'notifiers/mattermost', isTranslated: false },

@@ -58,6 +58,16 @@ export function EditS3StorageComponent({
         </div>
       </div>
 
+      <div className="mb-2 flex items-center">
+        <div className="hidden min-w-[110px] sm:block" />
+
+        <div className="text-xs text-blue-600">
+          <a href={getWebsitePageUrl('storagesNeon', locale)} target="_blank" rel="noreferrer">
+            {t('storages.edit.s3.neonGuide')}
+          </a>
+        </div>
+      </div>
+
       <div className="mb-1 flex w-full flex-col items-start sm:flex-row sm:items-center">
         <div className="mb-1 min-w-[110px] sm:mb-0 sm:pr-2">{t('storages.fields.s3Bucket')}</div>
         <Input

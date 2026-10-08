@@ -1777,6 +1777,7 @@ export const en = {
       },
       s3: {
         cloudflareR2Guide: 'How to use with Cloudflare R2?',
+        neonGuide: 'How to use with Neon Object Storage?',
         endpointTooltip: 'Custom S3-compatible endpoint URL (optional, leave empty for AWS S3)',
         prefixTooltip:
           "Optional prefix for all object keys (e.g., 'backups/' or 'my_team/'). May not work with some S3-compatible storages. Cannot be changed after creation (otherwise backups will be lost).",

@@ -25,6 +25,7 @@ const navItems: NavItem[] = [
     children: [
       { title: "Google Drive", href: "/storages/google-drive" },
       { title: "Cloudflare R2", href: "/storages/cloudflare-r2" },
+      { title: "Neon Object Storage", href: "/storages/neon" },
     ],
   },
   {
